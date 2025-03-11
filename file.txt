@@ -1,0 +1,4 @@
+1. Akıllı batarya
+2. Karanlık mod desteği
+3. Renk körü modu
+4. Sıcaklık kontrol sistemi
