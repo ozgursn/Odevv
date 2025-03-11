@@ -1,5 +1,5 @@
-1. Akıllı batarya
+1. Renk körü modu
 2. Karanlık mod desteği
-3. Renk körü modu
+3. Akıllı batarya
 4. Sıcaklık kontrol sistemi
 5. Dokunmatik ekran
