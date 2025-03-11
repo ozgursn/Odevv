@@ -1,4 +1,5 @@
-1. Akıllı batarya
-2. Karanlık mod desteği
+1. Karanlık mod desteği
+2. Akıllı batarya
 3. Sıcaklık kontrol sistemi
 4. Dokunmatik ekran
+
